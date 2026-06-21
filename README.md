@@ -31,5 +31,6 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=midhunmanesh01-code&theme=dark)](https://git.io/streak-stats)
-
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=midhunmanesh01-code&show_icons=true&theme=tokyonight" alt="Midhun's GitHub stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunmanesh01-code&layout=compact&theme=tokyonight" alt="Top languages" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhunmanesh01-code&label=Profile%20views&color=0e75b6&style=flat" alt="midhunmanesh01-code" /> </p>
